@@ -19,7 +19,7 @@ La base de la base à connaitre et à abuser et ré-abuser! Ces raccourcis sont 
 * `ctrl` + `p` : imprimer.
 * `ctrl` + `n` : nouveau fichier.
 * `alt` + `tab` : changer de fenêtre active.
-* `alt` + `tab` + `flêche directionnel` : changer de fenêtre active.
+* `alt` + `tab` + `touche directionnel` : changer de fenêtre active.
 * `ctrl` + `tab` : changer d'onglet (vers la droite).
 * `ctrl` + `maj` + `tab` : changer d'onglet (vers la gauche). 
 * `ctrl` + `t` : nouvel onglet.
@@ -27,10 +27,14 @@ La base de la base à connaitre et à abuser et ré-abuser! Ces raccourcis sont 
 * `ctrl` + `f4` : fermer la fenêtre en cours.
 * `alt` + `f4` : fermer l'application.
 * `ctrl` + `r` : actualiser la page.
-* `alt` + `flêche gauche` : revenir en arrière dans l'historique.
-* `alt` + `flêche droite` : repartir en avant dans l'historique (si on était déjà revenu en arrière auparavant).
+* `alt` + `touche directionnel gauche` : revenir en arrière dans l'historique.
+* `alt` + `touche directionnel droite` : repartir en avant dans l'historique (si on était déjà revenu en arrière auparavant).
 * `f5` : actualiser la page (navigateur).
+* `f11` : plein écran.
+* `fn` : parfois vos touches de fonction (`f1`, `f2` etc...) sont alloués à des fonctionnalités de l'ordinateurs (comme monter le son, réduire la luminosité etc...) et ne rentrent pas en compte dans les raccourcis. Si vous voulez utiliser ces touches en tant que raccourcis et non fonctionnalité (ou vice-versa), vous devez appuyer sur cette touche simultanément. Elle est généralement pas loin de la touche démarrer.
 * `alt` : afficher les menu propre à l'application(généralement en haut de la fenêtre). On peut ensuite naviguer dans ces menus en appuyant sur les touches des lettres soulignés(souvent la première). Par exemple : `alt` + `f` permet d'aller dans le menu "file" de sublime text.
+* `touches directionnelles` : permet de déplacer le curseur de sélection d'un élément à l'autre.
+* `tab` : 
 
 ## OS 
 
@@ -38,13 +42,14 @@ Voici le volet sur les raccourcis propre à chaque OS.
 
 ### Linux (ubuntu 16.04)
 
-* `ctrl` + `alt` + `flêche directionnel` : changer de bureau actif.
-* `ctrl` + `alt` + `maj` + `flêche directionnel` : déplacer la fenêtre actuelle sur les différentes fenêtres.
+* `ctrl` + `alt` + `touche directionnel` : changer de bureau actif.
+* `ctrl` + `alt` + `maj` + `touche directionnel` : déplacer la fenêtre actuelle sur les différentes fenêtres.
 * `ctrl` + `alt` + `0` : réduire toute les fenêtres (afficher le bureau).
 * `ctrl` + `n` : ouvrir l'explorateur de fichier (depuis le bureau).
 * `ctrl` + `maj` + `c` : copier sur le terminal.
 * `ctrl` + `maj` + `v` : coller du texte sur le terminal.
 * De façon général, pour que les raccourcis clavier "basiques" marchent sur le terminal, il suffit d'appuyer `maj` en plus des bonnes touches.
 * `tab` : auto-complétion (sur le terminal).
-* `flêche vers le haut` : revenir 
+* `touche directionnelle haut` / `touche direcitonnelle bas` : naviguer parmis les dernières commandes saisies (dans le terminal).
+* `ctrl` + `super` + `touche directionnelle gauche ou droite`
 
